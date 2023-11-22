@@ -1,4 +1,4 @@
-# ChatGPT Clone with LangChain& Streamlit
+# ChatGPT Clone with LangChain & Streamlit
 
 This is a simple chat application that utilizes OpenAI's GPT model to create a conversational agent. The application is built using Streamlit, a Python library for creating web applications, and LangChain. The chat interface allows users to interact with the AI model by sending messages and receiving responses.
 
